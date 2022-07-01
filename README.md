@@ -12,7 +12,7 @@
 - 📫 How to reach me mohammedznn1999@gmail.com  
   
 
-📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/mohammed-alzayyan/)  
+- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/mohammed-alzayyan/)  
   
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/MohammedAlzayyan)  
